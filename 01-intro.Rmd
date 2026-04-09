@@ -1,0 +1,13 @@
+# Contaminants 
+Unfortunately, many people don’t have easy access to potable water. Roughly a quarter of the world's population, 2 billion people, rely on a water source that is either contaminated, unreliable, too far away, or a combination of the three. Of these three factors, contaminants are the deadliest.(1) 
+ 
+## Germs
+All water is contaminated to some degree, but an estimated 1.7 billion people are drinking from water contaminated with faeces. Bacteria that persist in the faecal matter cause sicknesses like cholera, diarrhea, and dysentery.  As simple as these sicknesses are, they can kill a man in a matter of days, and are especially deadly to children.(2) They are known to kill around one million people a year.(1) Too put this in perspective, more people die from these water born diseases in a single year than the entire american civil war, all because waste water isn’t treated or separated from drinking water. (3) The worst part about it is that these diseases are entirely treatable, but many of the same places that lack waste water treatment, also lack access to proper medical facilities. Even in countries with sophisticated water treatment like the USA, 1 in 300 people still get sick from their water. (4)
+
+## Toxins
+
+Outside of germs, there are many other contaminants that plague water. These toxins include metals, petroleum products, drugs medical or otherwise, PFOS, fertilizers, and more. Some of these can directly lead to mortality such as the toxic metal arsenic or nitrogen fertilizers that can cause blue baby syndrome. Others are carcinogens such as many of the metals and PFOS that don’t kill you instantly but cause cancer later down the line. Still others such as drugs or the metal lead are associated with developmental disorders in children. Lastly microplastics, while not being directly toxic, bind to the existing contaminants in the water and serve as a vehicle to concentrate the agents of contamination. While some of these toxins like lead and arsenic exist naturally in some water sources, most of these contaminants are introduced from industrial processes. If we want safe drinking water, we need to develop infrastructure and government regulations to treat waste water for both faecal matter and industrial toxins.
+
+
+
+

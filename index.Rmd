@@ -1,0 +1,28 @@
+--- 
+title: "Water is Life"
+author: "D. Oberlies"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      sharing:
+        facebook: false
+        twitter: false
+documentclass: book
+bibliography: [bibliography.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: https://github.com/Unicycle-Declan/Water_is_Life
+description: "DESCRIPTION yall."
+---
+
+# Introduction {#intro}
+
+Imagine this: You are stranded alone in the middle of the wilderness. You are hundreds of miles from civilization and you have nothing except for the clothes on your body, and no way to contact help. What is the first thing that you would do? Would you start looking for food? Would you try to construct a shelter, or start a fire? Would you just give up and wait to die? If you were smart, you would begin by searching for water, because water is life.
+
+Water is a very simple molecule. Just two hydrogen atoms bonded to a single oxygen atom; but when many of the water molecules interact with each other, amazing things can happen. Life first emerged from the sea because the ocean water holds and transports the very nutrients that basic life needs to form. As life evolved onto land, we did not leave the ocean, we took the ocean with us. The first vascular land plants evolved by being able to bring water up to create a mini ocean in their leaves. The first land animals evolved by being able to carry water with them like a mini ocean in their internal organs. The first reptiles were able to move further inland by holding water in their hard shelled eggs, so that their offspring could be born from the sea. 
+
+Many accredit the advancements of man to fire, but in truth our societies were forged not in fire but in water. The first human civilizations emerged when they discovered how to irrigate, to bring water to their crops. The largest empire rose because they discovered how to turn water into steam, and how to use the steam to power machinery. The greatest economies are able to keep food costs low, because they found a way to drill into the earth and irrigate otherwise arid lands. The most advanced electrical generator yet, the Nuclear reactor, uses a special kind of water to catalyze and regulate its reaction. The most powerful tool of the century, AI, needs water to regulate temperature. Even the rockets that will take man to the final frontier, are all powered essentially by water. 
+
+Water is life, and if we want a better life for ourselves and our people, it starts with better access to water.

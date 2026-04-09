@@ -1,0 +1,14 @@
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+1. [WHO,  Drinking-water, 09/13/2023](https://www.who.int/news-room/fact-sheets/detail/drinking-water#:~:text=Some%201%20million%20people%20are,of%20diarrhoea%20and%20other%20diseases.)
+2. [World Vision, Waterborne Diease, 07/04/2021](https://www.worldvision.ca/en/stories/waterborne-diseases-facts-how-to-help) 
+3. [American Battlefield Trust, Civil War Casualties, 09/15/2023](https://www.battlefields.org/learn/articles/civil-war-casualties)
+4. [CDC, Drinking Water Facts and Stats, 08/06/2024](https://www.cdc.gov/drinking-water/data-research/facts-stats/index.html)
+5. Knoll, Personal Communication, 04/08/2026
+6. [WHO, Women and girls bear brunt of water and sanitation crisis, 07/06/2023](https://www.who.int/news/item/06-07-2023-women-and-girls-bear-brunt-of-water-and-sanitation-crisis---new-unicef-who-report)
+7. [UN, SDG 5, 2025](https://sdgs.un.org/goals/goal5)
+8. [NASA, Desert Crops Thrive as Aquifer Sinks, 12/14/2019](https://science.nasa.gov/earth/earth-observatory/desert-crops-thrive-as-the-aquifer-shrinks-145975/)
+9. [Our World in Data, Freshwater withdrawals as a share of internal resources, 10/29/2025](https://ourworldindata.org/grapher/freshwater-withdrawals-as-a-share-of-internal-resources?tab=table&time=latest&tableSearch=Kw)
+10. [Khanzada, N.K., Al-Juboori, R.A., Ibrahim, Y. et al. Desalination and the Middle East: research, practices, implications, and prospects. npj Clean Water 9, 21 (2026).](https://www.nature.com/articles/s41545-026-00554-x#Abs1)
+
